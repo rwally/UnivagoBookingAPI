@@ -12,7 +12,7 @@ Download the project, open it with an IDE then run it.
 
 ## Usage
 
-Open a web browser and go to localhost:8080 to see the Swagger UI which contains the documentation and where you send test requests.
+Open a web browser and go to localhost:8080 to see the Swagger UI which contains the documentation and where you can send test requests.
 
 ## Shortcuts
 
