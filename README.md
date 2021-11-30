@@ -4,7 +4,7 @@
 
 Univago is a booking API that allows an application to check for room availability, place a reservation, cancel it or modify it.
 
-Univago is a REST API written in Java using Spring Boot and Jersey. It acts as a black box that be accessed with HTTP requests, there is no frontend interface.
+Univago is a REST API written in Java using Spring Boot and Jersey. It acts as a black box that can be accessed with HTTP requests, there is no frontend interface.
 
 ## Installation
 
