@@ -8,12 +8,7 @@ Univago is a REST API written in Java using Spring Boot and Jersey. It acts as a
 
 ## Installation
 
-Download the .jar UnivagoBookingApi (make sure that Java 8 (at least) is installed).
-
-Open the Windows command prompt cmd, go to the folder where the .jar is and execute this command :
-```bash
-java -jar UnivagoBookingApi.jar
-```
+Download the project, open it with an IDE then run it.
 
 ## Usage
 
